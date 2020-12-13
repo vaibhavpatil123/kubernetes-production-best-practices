@@ -22,3 +22,7 @@ https://danlebrero.com/2018/11/20/how-to-do-java-jvm-heapdump-in-kubernetes/
 # Fix memory leck
 
 https://developers.redhat.com/blog/2014/08/14/find-fix-memory-leaks-java-application/
+
+# Shutdown pod best practices 
+https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-terminating-with-grace
+https://cloud.google.com/blog/topics/kubernetes-best-practices
