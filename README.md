@@ -9,3 +9,16 @@ This checklist provides actionable best practices for deploying secure, scalable
 - [Application development](application-development.md)
 - [Governance](governance.md)
 - [Cluster configuration](configuration.md)
+
+
+# Debug java app
+
+https://www.openshift.com/blog/debugging-java-applications-on-openshift-kubernetes
+
+# Heap dump 
+https://danlebrero.com/2018/11/20/how-to-do-java-jvm-heapdump-in-kubernetes/
+
+
+# Fix memory leck
+
+https://developers.redhat.com/blog/2014/08/14/find-fix-memory-leaks-java-application/
